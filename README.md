@@ -78,3 +78,6 @@ yarn proxy
 ### Help
 
 For more information visit the [Theme repository](https://github.com/narative/gatsby-theme-novela)
+
+### Deploy Site
+```curl -X POST -d {} https://api.netlify.com/build_hooks/617c43a2f0301b4f88470335```
