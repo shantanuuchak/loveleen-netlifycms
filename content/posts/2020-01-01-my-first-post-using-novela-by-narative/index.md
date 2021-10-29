@@ -1,7 +1,7 @@
 ---
 title: My first post using Novela by Narative
 author: Loveleen Kukreja
-date: 2019-04-30
+date: 2021-02-20
 excerpt: With the growing community interest in Gatsby, we hope to create more
   resources that make it easier for anyone to grasp the power of this incredible
   tool.
