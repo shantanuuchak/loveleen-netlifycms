@@ -26,7 +26,7 @@ Some studies show that the person who abuses pets or any animal, in general, are
 
 ## Measures taken by the government
 
-The Union government has proposed an amendment to the Prevention of Cruelty to Animals Act, 1960 (POCA) to increase penalties against animal cruelty from Rs. 50 to Rs. 75,000 or “three times the cost of the animal” besides up to five years' imprisonment.<!--StartFragment-->
+The Union government has proposed an amendment to the Prevention of Cruelty to Animals Act, 1960 (POCA) to increase penalties against animal cruelty from Rs. 50 to Rs. 75,000 or “three times the cost of the animal” besides up to five years' imprisonment.
 
 Another example is the Anti-Slaughter laws are also there in some states to prevent the mass killing of cattle.
 
