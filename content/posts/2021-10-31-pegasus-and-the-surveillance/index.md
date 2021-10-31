@@ -3,31 +3,13 @@ title: Pegasus and the surveillance
 author: Loveleen Kukreja
 date: 2021-07-26
 excerpt: Privacy is not something that I am entitled to, It is an absolute pre-requisite
-hero: images/security-breach-attack.jpg
+hero: images/pegasus-nso.jpg
 ---
-<!--StartFragment-->
-
 Pegasus is spyware developed by Israeli NSO group technologies in 2010. This firm is made selling solely to the government agencies like RAW, ISI, etc. for the purpose of preventing terror attacks and crimes as claimed by the company.
 
-<!--EndFragment-->
-
-
-
-<!--StartFragment-->
-
-How does it work?
+## How does it work?
 
 It enables remote surveillance of smartphones by tracking personal details like GPS, photographs, videos, contact details, audio, etc. Pegasus is a very expensive malware designed to have surveillance on the interested parties. A message is sent on the victim's phone and when one clicks on it, the spyware gets into the phone. In some cases, it is also caused by ‘Zero click vulnerability’ that means a link will be sent to your phone and the pegasus will automatically present in your phone.
-
-
-
-<!--EndFragment-->
-
-
-
-
-
-<!--StartFragment-->
 
 ## Response of the governments around the world:
 
