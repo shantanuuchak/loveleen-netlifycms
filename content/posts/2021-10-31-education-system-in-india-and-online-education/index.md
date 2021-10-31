@@ -14,8 +14,6 @@ Toddlers, who were in their primary grades could not get benefit from the in-cla
 
 And most important, the senior students who have their most important academic sessions could not enjoy live learning and instead, they too have to learn from zoom, google meet, etc. They are the ones who have missed everything from trips to farewell, once in lifetime experiences.
 
-![Indian Online Education](images/online-education-in-india.jpg "Indian Online Education")
-
 There was also uncertainty regarding the **BOARD EXAMS** of **class** **X** and **XII** in the midst of the second wave. The exams were canceled for class X and postponed for class XII as announced and a review meeting was scheduled for 1 June for the conduction of CBSE exams by our honorable education minister Mr. Ramesh Pokhriyal but there was a lot of pressure in the minds of children which led some children to anxiety and depression, basically, uncertainty caused mental health issues to children. Finally, the decision was in favor of and safety of children. This has relaxed every child who was anxious.
 
 Online learning was not up to the mark for various subjects for seniors, toddlers who just entered the school and could not sit for long hours in one stretch and also could not cope up with the increased burden of homework.
