@@ -1,5 +1,5 @@
 ---
-title: My first post using Novela by Narative
+title: My first post
 author: Loveleen Kukreja
 date: 2021-02-20
 excerpt: With the growing community interest in Gatsby, we hope to create more
@@ -7,7 +7,7 @@ excerpt: With the growing community interest in Gatsby, we hope to create more
   tool.
 hero: ./images/hero.jpg
 ---
-My first post using `@narative/gatsby-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
+My first post using `@narative/gatsby-theme-novela`.
 
 ## Headers
 
