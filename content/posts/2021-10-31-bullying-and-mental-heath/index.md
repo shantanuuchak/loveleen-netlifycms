@@ -17,6 +17,8 @@ Recently, the bullying against doctors is also very disturbing. They are conside
 
 There was also verbal bullying by Baba Ramdev as he stated in one of his videos that **“allopathy is stupid and failed science and lakhs of patients have died after taking allopathic medicines ”**. This was a very vague statement as thousands of doctors are risking their lives to save every patient, working every single day with no leave. They are also not mentally stable to work tirelessly in midst of this **“mentally exhausting”** pandemic.
 
+![Stop bullying and mental health](images/stop-online-bullying.jpg "Stop bullying and mental health")
+
 The other instance is of the last year's most famous incident of **“Boys Locker Room”** in which some teenage boys from Delhi have made an Instagram group and leaked chats and some intimate pictures of about 15 girls. This kind of cyber-bullying is increasing day by day.
 
 People can complain regarding cyberbullying on the Indian Government’s helpline number **“[112](tel:+91112)”**.
