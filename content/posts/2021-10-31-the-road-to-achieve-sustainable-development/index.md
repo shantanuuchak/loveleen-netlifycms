@@ -9,6 +9,8 @@ hero: images/road-to-suistanable-development.jpg
 
 Sustainable development is the development that aims to allow all future generations to have access to all the resources by using the resources judiciously and sustainably at present. There are 17 sustainable goals which are adopted in United Nations General Assembly by all the 193 countries in 2015 and the target is to achieve these goals by 2030.
 
+![Mind mill generating electricity](images/wind-mill-generating-electricity.jpg "Mind mill generating electricity")
+
 ## **Aims/Objectives:**
 
 * Sustainable development goals are also known as **Global Goals** and aim to end poverty, discrimination against women, AIDS, etc.
@@ -24,6 +26,8 @@ Recently , new startups are emerging as they claim to sustainably develop the pr
 * Other example is Puma, a shoe company which also recycles waste in collaboration with Firstmile, a MNC.
 
 This also encourages other companies to manufacture the products sustainably due to the competition and help us achieve the Global Goals.
+
+![One world save earth](images/one-world-save-earth-poster.jpg "One world save earth")
 
 ## **Solutions:**
 
