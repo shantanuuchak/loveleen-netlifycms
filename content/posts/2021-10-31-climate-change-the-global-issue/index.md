@@ -19,6 +19,8 @@ As per the 2011 census, the age group of people between 15-24 years constitutes 
 
 An agreement was also recently signed in 2015 between 196 countries of the world in Paris to tackle the problem of Climate Change. This agreement is also called the Paris Agreement. The main aim of this agreement is to limit global warming to well below 2° Celsius, and preferably limit it to 1.5° Celsius, compared to pre-industrial levels and to achieve the long-term temperature goal, countries aim to reach global peaking of greenhouse gas emissions as soon as possible to achieve a climate-neutral world by mid-century.
 
+![Greta thunberg quote on global warming](images/greta-thunberg-quotes.jpeg "Greta thunberg quote on global warming")
+
 India is at the stage where India needs to do development and reduce the Greenhouse Gases at the same time. The youth of the country needs to use the resources efficiently and discourage the affluent usage of resources. They need to understand that Climate Change is the real issue and we need to take actions regarding this and act as a responsible citizen of the country. We have a single mission that is to protect the planet and hand it over to the next generation. Small actions can have a big impact.
 
 So, we need to work at local levels to achieve the dual goal of development and reduction of Greenhouse Gases at the same time.
