@@ -28,6 +28,8 @@ The other instance of prior approval was when the Education Minister of India no
 
 The recent G7+ summit also raised the issues of the internet ban in Jammu & Kashmir after the abrogation of Article 370 which curbs free speech as without the internet there can not be ground reporting of things happening in Jammu and Kashmir. The G7+ summit stated the internet shutdowns in Jammu & Kashmir as politically motivated.
 
+> "If liberty means anything at all, it means the right to tell people what they do not want to hear " - George Orwell 
+
 ## Why Free Speech is important?
 
 ![Defend our free press](images/defend-our-free-press.jpg "Defend our free press")
