@@ -48,8 +48,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `Loveleen Kukreja Blog`,
+        short_name: `Loveleen Kukreja`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
