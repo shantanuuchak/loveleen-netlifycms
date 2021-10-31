@@ -14,7 +14,9 @@ Free speech is fundamental to every individual in democracies which provides peo
 
 ## How Free Speech is indirectly taken away?
 
-#### In recent times, free speech is curbed by the government by the way of censorship, prior approval of information being published. 
+#### In recent times, free speech is curbed by the government by the way of censorship, prior approval of information being published.
+
+![Social media and the freedom of speech](images/social-media-freedom-of-speech.jpg "Social media and the freedom of speech")
 
 Due to the spread of misinformation, disinformation, malinformation being spread online, the government of India has introduced new IT RULES, 2021 which are challenged by the social media intermediaries on the account that they are violating the freedom of speech and freedom of privacy enshrined under Article 19 and Article 21 of Indian constitution, respectively. In response, GOI told the high court that these rules are only to check the first originator of the fake information which is already in the public domain and the other argument was that the GOI will only ask to take down the content which is obscene, pornographic, or something which harms someone.
 
