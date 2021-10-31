@@ -29,6 +29,6 @@ This also encourages other companies to manufacture the products sustainably due
 
 ![One world save earth](images/one-world-save-earth-poster.jpg "One world save earth")
 
-## **Solutions:**
+## Solutions
 
 With growing inequality, rich people tend to do wasteful consumption which further impacts sustainability. It is important to counter this through public awareness and certain limits should be there to prevent wasteful consumption. People should educate the people around them locally and do the needful at the individual level.
