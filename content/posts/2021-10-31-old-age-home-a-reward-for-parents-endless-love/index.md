@@ -12,6 +12,8 @@ An old age home is a place where old people can live together and be cared for w
 
 ## How the trend has changed?
 
+![Grandma and baby playing together](images/grandma-and-baby-playing-together.jpg "Grandma and baby playing together")
+
 To understand the very concept of old age homes, we have to go back to the history where people used to live in joint families and perform every activity collectively which makes them dependent on each other but the trend has changed now and most people lives in nuclear families which makes them do everything of their own and are independent. The thinking of the people have changed dramatically and they think that it is worth it to send their parents to the Old age homes and earn a good livelihood abroad or basically away from their parents.
 
 ![Man holding wheelchair and taking his father to the old age home](images/holding-hand-and-wheelchair.jpg "Man holding wheelchair and taking his father to the old age home")
