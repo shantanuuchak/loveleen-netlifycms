@@ -13,6 +13,8 @@ Because of Gender Stereotypes, women are often less valued and discriminated aga
 
 When someone thinks of a business, they are struck by the image of male members because of the long-standing stigma that only males can do business. Women are questioned every time they want to do something professionally which is done by men from generations, they are offered low salaries for the same work as their male counterparts.
 
-India had ranked **112/153** countries in the **GLOBAL GAP INDEX 2020**. India has slipped 28 places to rank **140/156** countries in the **WORLD ECONOMIC FORUM’S GLOBAL GENDER GAP REPORT 2021**. These ratings help to analyze the previous policies and formulate new policies according to the data. Certain schemes have also been implemented by the government to build the bridge of equality. Certain Scheme includes “Beti Bachao, Beti Padhao”, “Mother and Child Tracking System”,“ Rajiv Gandhi Scheme for Empowerment of Adolescent Girls ”etc. 
+India had ranked **112/153** countries in the **GLOBAL GAP INDEX 2020**. India has slipped 28 places to rank **140/156** countries in the **WORLD ECONOMIC FORUM’S GLOBAL GENDER GAP REPORT 2021**. These ratings help to analyze the previous policies and formulate new policies according to the data. Certain schemes have also been implemented by the government to build the bridge of equality. Certain Scheme includes “Beti Bachao, Beti Padhao”, “Mother and Child Tracking System”,“ Rajiv Gandhi Scheme for Empowerment of Adolescent Girls ”etc.
+
+![Gender inequality](images/gender_inequality.jpg "Gender inequality")
 
 We can also take individual baby steps to reduce biasness by speaking about their personal experiences, encouraging women’s to participate in every field and not target them on their preferred profession, **calling out discrimination in the media and advertising, supporting small campaigns, call out discrimination that occurs at the local level and help someone of your known.**
