@@ -20,6 +20,8 @@ To understand the very concept of old age homes, we have to go back to the histo
 
 This question raises another question that ‘‘Is it good to send the children to orphanages when their parents are alive or can take care of them ?’’ The answer is obviously “no”. No parent would do that but the children of this generation are too busy or find it too cool to send their parents to old age homes and not care for them who gave them birth, who lived their entire life fulfilling their demand, who cared for them their entire life. This generation lives in the stigma of being cool, showing off their wealth and all. They do not care about their own parents.
 
+![Sad old man about to cry](images/sad-old-man.jpg "Sad old man about to cry")
+
 ## The Message passed to the next generation
 
 Children often learn from their parents and follow them. In today’s generation, people tend to pass a very wrong message to the next generation that not taking care of their parents is “cool”. They don’t think that they will also be at the same place after a while and their children will do the same thing to them.
