@@ -28,6 +28,8 @@ Some studies show that the person who abuses pets or any animal, in general, are
 
 The Union government has proposed an amendment to the Prevention of Cruelty to Animals Act, 1960 (POCA) to increase penalties against animal cruelty from Rs. 50 to Rs. 75,000 or “three times the cost of the animal” besides up to five years' imprisonment.
 
+> The greatness of a nation and its moral progress can be judged by the way its animals are treated - MK Gandhi
+
 Another example is the Anti-Slaughter laws are also there in some states to prevent the mass killing of cattle.
 
 If you witness suspected cruelty to animals, I urge everyone to call your local animal control agency as soon as possible or dial 9-1-1 if you're unfamiliar with local organizations. If you make a report of alleged animal cruelty, the responding agency is required to investigate and you can also mail at [info@petainda.com](mailto:info@petainda.com).
