@@ -55,5 +55,11 @@ module.exports = {
       options: {
       },
     },
+    {
+    resolve: 'gatsby-plugin-mailchimp',
+    options: {
+      endpoint: 'https://loveleenkukreja.us5.list-manage.com/subscribe/post?u=a03e8e6ba2d544469b5652c19&amp;id=bf4edc4e61', // add your MC list endpoint here; see plugin repo for instructions
+      },
+    },
   ],
 };
