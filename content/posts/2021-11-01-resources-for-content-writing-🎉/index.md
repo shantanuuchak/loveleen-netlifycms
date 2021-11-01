@@ -27,7 +27,7 @@ hero: images/the-globe.jpg
 
 ## Inspiration
 
-[Dribbble](https://dribbble.com/) A good resource for getting inspiration
+[Dribbble](https://dribbble.com/) Good resource for getting inspiration
 
 [Awwwards](https://www.awwwards.com/) Another good resource for getting inspiration
 
@@ -36,3 +36,7 @@ hero: images/the-globe.jpg
 ## Content
 
 [Quora](https://www.quora.com/) Get content ideas
+
+
+
+Feel free to text me anytime at: +918850611274
