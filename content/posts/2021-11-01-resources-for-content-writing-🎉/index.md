@@ -39,4 +39,4 @@ hero: images/the-globe.jpg
 
 
 
-Feel free to text me anytime at: +918850611274
+If you need any help, feel free to text me anytime at [+918850611274](tel:+918850611274)
