@@ -14,20 +14,12 @@ module.exports = {
         url: `https://twitter.com/kukrejaloveleen`,
       },
       {
-        name: `github`,
-        url: `https://github.com/narative`,
-      },
-      {
         name: `instagram`,
         url: `https://instagram.com/loveleenkukreja`,
       },
       {
         name: `linkedin`,
         url: `https://in.linkedin.com/in/loveleen-kukreja-1a24581b1 `,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
       },
     ],
   },
