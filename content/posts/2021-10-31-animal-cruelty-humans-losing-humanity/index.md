@@ -32,4 +32,4 @@ The Union government has proposed an amendment to the Prevention of Cruelty to A
 
 Another example is the Anti-Slaughter laws are also there in some states to prevent the mass killing of cattle.
 
-If you witness suspected cruelty to animals, I urge everyone to call your local animal control agency as soon as possible or dial 9-1-1 if you're unfamiliar with local organizations. If you make a report of alleged animal cruelty, the responding agency is required to investigate and you can also mail at [info@petainda.com](mailto:info@petainda.com).
+If you witness suspected cruelty to animals, I urge everyone to call your local animal control agency as soon as possible or dial [(0) 98201 22602](tel:+919820122602) if you're unfamiliar with local organizations. If you make a report of alleged animal cruelty, the responding agency is required to investigate and you can also mail at [info@petaindia.com](mailto:info@petainda.com).
