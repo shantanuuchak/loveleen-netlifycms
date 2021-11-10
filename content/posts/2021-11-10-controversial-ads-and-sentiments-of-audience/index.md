@@ -6,9 +6,9 @@ excerpt: From Tanishq ad to Fab India to Fem bleach to Sabyasachi, the
   controversies around the ads are never-ending.
 hero: images/fem-ad.webp
 ---
-**Controversial Ads and sentiments of audience:**
+## Controversial Ads and sentiments of the audience
 
-From Tanishq ad to Fab India to Fem bleach to Sabyasachi, the controversies around the ads are never-ending. Basically, ads are generated for the profit motive and not for publicising or hurting someone’s religious sentiments (Mostly). Maybe we have different opinions with the broadcasters as the audience or maybe some have similar views with the broadcasters? And different opinions lies in every society.
+From Tanishq ad to Fab India to Fem bleach to Sabyasachi, the controversies around the ads are never-ending. Basically, ads are generated for the profit motive and not for publicizing or hurting someone’s religious sentiments (Mostly). Maybe we have different opinions with the broadcasters as the audience or maybe some have similar views with the broadcasters? And different opinions lie in every society.
 
 ![sabyasachi-ad](images/collage-3_0-sixteen_nine.jpg "sabyasachi-ad")
 
@@ -36,9 +36,5 @@ The Tanishq ad which was criticised last Diwali had the aim to integrate religio
 **The purpose:**
 
 The main purpose of me writing all this is to make everyone vigilant of how we should take utmost care of our “Unity” rather than see us as “different groups”. We should consider ourselves as Indians first and then as anyone else. Together we can achieve anything and everything. I would like to end with the quote that “Unity in Diversity” which means to live together peacefully with respect and constructive criticism and with not blaming any group.
-
-
-
-
 
 By: Loveleen Kukreja
