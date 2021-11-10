@@ -36,3 +36,9 @@ The Tanishq ad which was criticised last Diwali had the aim to integrate religio
 **The purpose:**
 
 The main purpose of me writing all this is to make everyone vigilant of how we should take utmost care of our “Unity” rather than see us as “different groups”. We should consider ourselves as Indians first and then as anyone else. Together we can achieve anything and everything. I would like to end with the quote that “Unity in Diversity” which means to live together peacefully with respect and constructive criticism and with not blaming any group.
+
+
+
+
+
+By: Loveleen Kukreja
