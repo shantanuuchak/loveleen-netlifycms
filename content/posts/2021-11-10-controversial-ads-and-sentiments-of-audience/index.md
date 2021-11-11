@@ -1,5 +1,5 @@
 ---
-title: "Controversial Ads and sentiments of audience:"
+title: Controversial Ads and sentiments of audience
 author: Loveleen Kukreja
 date: 2021-11-10
 excerpt: From Tanishq ad to Fab India to Fem bleach to Sabyasachi, the
