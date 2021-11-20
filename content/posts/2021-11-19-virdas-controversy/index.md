@@ -7,11 +7,9 @@ excerpt: The derogatory and wrong facts and remarks about his own homeland will
   been started against him.
 hero: images/211117141723-india-comedian-vir-das-criticism-exlarge-169.jpg
 ---
-<!--StartFragment-->
+# Virdas controversy
 
-# **Virdas controversy:**
-
-Virdas is a standup comedian who went to the Kennedy Centre, USA to perform his show and there he performed a monologue which talks about “Two India’s” that is an India before 2014 which was ruled by Congress Government and India after 2014 which is governed by Bhartiya Janta Party. The derogatory and wrong facts and remarks about his own homeland will lead him to troublesome situations now as the criminal proceedings have also been started against him.
+Virdas is a standup comedian who went to the Kennedy Centre, USA to perform his show and there he performed a monologue which talks about “Two India’s” that is an India before 2014 which was ruled by Congress Government and India after 2014 which is governed by Bhartiya Janta Party. The derogatory and wrong facts and remarks about his own homeland will lead him to troublesome situations now as criminal proceedings have also been started against him.
 
 ![](images/vir-das-two-indias-chetan-bhagat-163729697116x9.webp)
 
@@ -29,5 +27,3 @@ In his monologue, he stated that 
 Being an Indian myself, I can see the propaganda happening in Indian society. In the name of secularism, Indian society is getting divided between HINDU’S AND MUSLIM’S. The Hindu sect is known as “Bhakts” and the Muslim sect is known as “Liberals”. The idea of being Liberal is becoming so cool nowadays. In the name of being a “Liberal” or “Bhakt”, people tend to forget that they are Indians first and then anything.
 
 Speaking about the speech, it was so terrible of him to speak about his own country and insult the country on an international platform and also the facts which are not correct. Criticising is part of democracy but the way it was portrayed and the statement of the wrong facts are not acceptable at all in a democratic society as democracy has its own limitations and right to speech is not an absolute right.
-
-<!--EndFragment-->
