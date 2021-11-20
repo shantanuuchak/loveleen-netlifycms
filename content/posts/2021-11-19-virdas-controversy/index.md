@@ -9,7 +9,7 @@ hero: images/211117141723-india-comedian-vir-das-criticism-exlarge-169.jpg
 ---
 # Virdas controversy
 
-Virdas is a standup comedian who went to the Kennedy Centre, USA to perform his show and there he performed a monologue which talks about “Two India’s” that is an India before 2014 which was ruled by Congress Government and India after 2014 which is governed by Bhartiya Janta Party. The derogatory and wrong facts and remarks about his own homeland will lead him to troublesome situations now as criminal proceedings have also been started against him.
+Virdas is a standup comedian who went to the Kennedy Centre, USA to perform his show and there he performed a monologue which talks about “Two India’s” and they presented it as the irony of one another. The derogatory and wrong facts and remarks about his own homeland will lead him to troublesome situations now as criminal proceedings have also been started against him.
 
 ![](images/vir-das-two-indias-chetan-bhagat-163729697116x9.webp)
 
