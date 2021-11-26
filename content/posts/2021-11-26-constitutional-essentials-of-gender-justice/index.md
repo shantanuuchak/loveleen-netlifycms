@@ -1,5 +1,5 @@
 ---
-title: "Constitutional Essentials of Gender Justice :"
+title: Constitutional Essentials of Gender Justice
 author: Loveleen Kukreja
 date: 2021-11-26
 excerpt: "**As said by Mercedes Joubert, True equality is not the superiority of
