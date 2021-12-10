@@ -26,6 +26,8 @@ In the affidavit given by the government, they argued that it is not discriminat
 
 ## The Judgement
 
+![Women in command](images/women-in-command.jpeg "Women in command")
+
 After 17 years of battles in the courts, the Supreme court of India in February 2020, ordered that women officers of the Indian Army serving under SSC and have scored 60% in their assessment subject and the competition of medical requirements as per the rules of the army for deployment as on August 1, 2020, and are vigilance and disciplinary clearance, be granted Permanent Commission, retrospectively [[source](https://blog.ipleaders.in/permanent-commission-women-forces/)]. This order gives women officers the opportunity to opt for not only staff appointments but also for the command roles in combat streams. This also prevents the fundamental rights of women from being violated and provides justice to them. Similar cases have been pending before the Supreme Court of India against the discriminating behavior of Indian Naval services and the Indian Armed Forces.
 
 ## Violation of the Articles
