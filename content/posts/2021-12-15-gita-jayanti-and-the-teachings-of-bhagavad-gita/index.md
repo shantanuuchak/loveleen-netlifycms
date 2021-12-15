@@ -5,11 +5,11 @@ date: 2021-12-15
 excerpt: An auspicious day like Gita Jayanti is the most important Indian
   festival and is celebrated as the marking of the birth anniversary of the
   Bhagavad Gita, a holy scripture that is often misconceived as the “only Hindu”
-  scripture.
+  scripture.The meaning and the teachings of the Bhagavad Gita is widely
+  accepted and applicable for everyone irrespective of their religion. Bhagavad
+  Gita is the **“Secular”** scripture and not based on a particular religion.
 hero: images/images-17-.jpeg
 ---
-An auspicious day like Gita Jayanti is the most important Indian festival and is celebrated as the marking of the birth anniversary of the Bhagavad Gita, a holy scripture that is often misconceived as the **“only Hindu”** scripture. The meaning and the teachings of the Bhagavad Gita is widely accepted and applicable for everyone irrespective of their religion. Bhagavad Gita is the **“Secular”** scripture and not based on a particular religion. 
-
 ![](images/bhagavadgita-6.jpg)
 
 Bhagavad Gita is an ancient religious text which aims to provide spiritual knowledge and knowledge regarding humanity to individuals. This holy scripture provides the solution to our problems and self-fulfilment. It gives us a sense of individuality and provides a decent way and form to lead our life. No other scriptures provide the truths in such a beautiful way as the Bhagavad Geeta has provided. The main aim of the Bhagavad Gita is to deliver humankind from the sufferings of the planet. Bhagavad Gita is an ancient religious text that was written by **Vyasa.** Bhagavad Geeta itself means a song by the lord himself. A book named **“Bhagavad Gita as it is ”** is written by the AC Bhaktivedanta Swami Prabhupada and it is a verified source to read and take the teachings of Krishna Ji as it was spoken by Krishna 5158 years ago during the Kurukshetra war to Arjuna. The nature of the book is not changed and the correct message and teachings are transmitted through the above book written by Prabhupada.
