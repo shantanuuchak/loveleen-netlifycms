@@ -8,6 +8,10 @@ excerpt: The debate regarding the recent killings of Fifteen civilians by the
 hero: images/images-20-.jpeg
 ---
 AFSPA is the abbreviated form of the Armed Forces (Special Powers) Act. It is the act that was established in 1958 after the assent of the President and which aims to control violence in the **“disturbed areas”** to protect the country through insurgents. Disturbed areas are the areas where the use of the army is necessary for addition to the civil police. Ministry of Home affairs declares the state as a “disturbed area” with an exception of declaring the state as disturbed for the state government in some areas. Also, the state government also gives suggestions to the Ministry of Home Affairs for the enactment of the areas as “disturbed areas”. According to the Disturb Areas (Special Courts)Act, 1976, if put up, that will remain applicable for the straight three months. 
+
+![](images/13a2f6fb-4b46-4a14-aee2-adeedfdff013.jfif)
+
+
 **This act provides the army with a shield and they can exercise various functions which include :**
 1. They can prohibit the gathering of more than five persons, 
 2. They can also use fire and force as the result of a contravention of laws after giving due warning. 
@@ -20,6 +24,8 @@ AFSPA is the abbreviated form of the Armed Forces (Special Powers) Act. It is th
 The debate regarding the recent killings of Fifteen civilians by the Army in the event of presumed inaccurate recognition in Nagaland has again raised the credibility of the powers of the Javans. Six civilians who were killed were the coal miners who were killed when they were transferring the coal from the Teru area to Oting in their village. After the incident took place, five hundred plus people attacked and vandalized the paramilitary camp of the Assam Rifles in district headquarters of Mon were other nine died and some were injured. On the other hand, one Army Javan was also martyred during this violence. Section 144 was also imposed during the violent protest. The bulk SMS’s and data services were suspended in the entire district. These killings have been criticised by many people including Meghalaya and Nagaland Chief Minister, Neiphiu Rio and Conral Sangama respectively. The investigation is in the process by the Special Investigation Team.
 
 
+![](images/0ae00b98-1725-4afb-a4fb-cb5b8893dfd7.jfif)
+
 ### **Controversy :**
 
 
@@ -31,6 +37,8 @@ The demand for the repeal of AFSPA has been raised by many people which includes
 
 The army, on the other hand, says that the repeal of the AFSPA will give the passage to the insurgents the protection and the violation of human rights will increase due to this. They argue that the act is necessary to combat insurgency. There is a need to protect the Army’s morality and integrity as a reason to not scrutinize the allegations against the Army personnel.
 
+
+![](images/016163be-c475-4434-a1bf-eac34f951986.jfif)
 
 ### **States that are currently under AFSPA:**
 
@@ -47,11 +55,14 @@ The army, on the other hand, says that the repeal of the AFSPA will give the pas
 ### **Supreme court Judgment :**
 
 
+![](images/3c9e1711-7627-46dc-b6df-53aa71054263.jfif)
+
 The attention of the supreme court of India in 2016 on the extra judicial killings clarified the fact that any unjustified killing by the Army personnel will not be granted the shield or the blanket cover from the punishments constituted under CrPC.
 
 
 ### **What lies ahead?**
 
+![](images/c99a509b-478e-4b1f-b8d0-cb0a435a2918.jfif)
 
 AFSPA should be amended if not repealed and the balance between the citizen-friendly and army friendly laws should be made regarding this.
 Human Rights Violation is the biggest question raised on the credibility of the Indian Army. There is a need to re-establish the need to deal with the problem.
