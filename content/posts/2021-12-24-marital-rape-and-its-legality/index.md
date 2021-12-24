@@ -21,6 +21,8 @@ In spite of recent amendments in criminal law, various laws meant to protect wom
 
 An analysis of NFHS or National Family Health survey 2015-16 data indicates that an estimated 99.1% of sexual violence go unreported and that an average Indian woman is 17 times more likely to face sexual offences from her husband than from others.
 
+On the other hand, criminalising Marital Rape will also lead to various fake allegations against men for the sake of getting money as compensation or making in laws responsible in the fake cases. 
+
 The amendments regarding the rape laws have been done many times in 1983,2002,2013 and 2018.
 
 In the 2013 amendment act which is the result of the Nirbhaya Case, it expanded the definition of rape as oral sex in addition to the insertion of any object into a women’s vagina, urethra or anus will amount to rape.
@@ -31,4 +33,10 @@ The fact that, in all amendments, there is no recognition of Marital rape by the
 
 **Fact: According to the NCRB report of 2018, In every 16 minutes, one woman is raped and in every 4 minutes, at least one woman is the victim of domestic violence.**
 
-Thus, Marital rape remained a stereotype that Domestic violence or Rape can only occur outside their homes and women are safe in their own houses which is not at all true.
+Thus, Marital rape remained a stereotype that Domestic violence or Rape can only occur outside their homes and women are safe in their own houses which is not at all true. Also, even if the government amends the law, it is very difficult for them to specify the limitations and conditions of the law to avoid unforeseen situations.
+
+
+
+# **NO means NO, whether it's by men or women, whether before marriage or after the marriage.** 
+
+# **Rape is rape, irrespective of the other factors.**
